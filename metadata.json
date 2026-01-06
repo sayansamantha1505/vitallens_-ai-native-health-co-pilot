@@ -1,0 +1,8 @@
+
+{
+  "name": "VitalLens: AI-Native Health Co-pilot",
+  "description": "A multimodal health assistant that interprets food ingredients through reasoning, inferring user intent implicitly without traditional UI forms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
