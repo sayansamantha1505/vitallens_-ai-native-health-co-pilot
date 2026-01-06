@@ -67,20 +67,19 @@ User-Friendly Insight Output
 
 🛠️ Tech Stack
 
-(Adapt this section if you want to be more specific)
+Tech Stack
 
-Frontend: Web-based UI (AI-first interaction flow)
+React + TypeScript – AI-native, component-based frontend
+Google Gemini API – Ingredient analysis, reasoning, and explainable AI output
+HTML5 & CSS3 – Core web technologies
+Node.js & npm – Dependency management and runtime
+Git & GitHub – Version control
 
-Backend: Python (FastAPI)
-
-AI / LLM: OpenAI API (reasoning & explanation)
-
-Data Sources:
-
-Simulated / partial ingredient data
-
-OpenFoodFacts (optional)
-
+Architecture Highlights
+Component-based UI (/components)
+Dedicated AI service layer (geminiService.ts)
+Strong typing (types.ts)
+Metadata-driven configuration (metadata.json)
 Deployment: Local / Cloud prototype
 
 ⚙️ Installation & Setup
