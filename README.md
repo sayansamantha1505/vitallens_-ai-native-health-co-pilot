@@ -67,20 +67,20 @@ User-Friendly Insight Output
 
 🛠️ Tech Stack
 
-Tech Stack
+Tech Stack: 
 
-React + TypeScript – AI-native, component-based frontend
-Google Gemini API – Ingredient analysis, reasoning, and explainable AI output
-HTML5 & CSS3 – Core web technologies
-Node.js & npm – Dependency management and runtime
-Git & GitHub – Version control
+1)React + TypeScript – AI-native, component-based frontend
+2)Google Gemini API – Ingredient analysis, reasoning, and explainable AI output
+3)HTML5 & CSS3 – Core web technologies
+4)Node.js & npm – Dependency management and runtime
+5)Git & GitHub – Version control
 
-Architecture Highlights
-Component-based UI (/components)
-Dedicated AI service layer (geminiService.ts)
-Strong typing (types.ts)
-Metadata-driven configuration (metadata.json)
-Deployment: Local / Cloud prototype
+Architecture Highlights:
+1)Component-based UI (/components)
+2)Dedicated AI service layer (geminiService.ts)
+3)Strong typing (types.ts)
+4)Metadata-driven configuration (metadata.json)
+5)Deployment: Local / Cloud prototype
 
 ⚙️ Installation & Setup
 1️) Clone the Repository
